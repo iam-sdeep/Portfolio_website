@@ -1,2 +1,2 @@
 # Portfolio_website
-This is Sdeep's Portfolio Simple Website
+This is Sdeep's Portfolio Sample Website
